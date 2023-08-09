@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RegistrationApp</string>
+    <string name="explore_the_app_text">Explore the app</string>
+    <string name="now_your_finances">Now your finances are in one place and always under control</string>
+    <string name="sign_in">Sign In</string>
+    <string name="create_account">Create account</string>
+
+</resources>
